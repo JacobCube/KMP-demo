@@ -1,0 +1,166 @@
+<resources>
+
+  <!--  DEMO  -->
+  <string name="category_demo">DEMO</string>
+  <string name="category_demo_characters">Characters</string>
+  <string name="category_demo_locations">Locations</string>
+  <string name="category_demo_episodes">Episodes</string>
+
+  <string name="category_dashboard">Home</string>
+
+  <string name="casino_games">Games</string>
+  <string name="casino_games_list">Games</string>
+
+  <string name="characters_list_filter">Filter</string>
+  <string name="characters_filter_name">Name</string>
+  <string name="characters_filter_species">Species</string>
+  <string name="characters_filter_type">Type</string>
+  <string name="characters_list_page">Page: %1$d</string>
+
+  <string name="character_detail_name">Name: </string>
+  <string name="character_detail_status">Status: </string>
+  <string name="character_detail_species">Species: </string>
+  <string name="character_detail_type">Type: </string>
+  <string name="character_detail_gender">Gender: </string>
+  <string name="character_detail_origin">Origin: </string>
+  <string name="character_detail_location">Location: </string>
+  <string name="character_detail_episodes">Episodes: </string>
+  <string name="character_detail_created">Created: </string>
+
+  <string name="episode_detail_name">Name: </string>
+  <string name="episode_detail_air_date">Air date: </string>
+  <string name="episode_detail_episode">Episode code: </string>
+  <string name="episode_detail_characters">Characters: </string>
+  <string name="episode_detail_created">Created: </string>
+
+  <string name="location_detail_name">Name: </string>
+  <string name="location_detail_type">Type: </string>
+  <string name="location_detail_dimension">Dimension: </string>
+  <string name="location_detail_residents">Residents: </string>
+  <string name="location_detail_created">Created: </string>
+
+
+  <string name="category_file">File</string>
+  <string name="category_file_login">Login</string>
+  <string name="category_file_change_password">Change password</string>
+  <string name="category_file_settings">Settings</string>
+  <string name="category_file_localization">Localization</string>
+  <string name="category_file_report_f1">Report to F1</string>
+  <string name="category_file_motive">App motive</string>
+  <string name="category_file_about">About app</string>
+  <string name="category_file_exit">Leave app</string>
+
+  <string name="category_odds_contest_list">List of contests</string>
+  <string name="category_odds_creation">Odd editor</string>
+  <string name="category_odds_confirmation_change">Confirmation/change</string>
+  <string name="category_odds_sets">Sets</string>
+  <string name="category_odds_ok_tip_results">O.K. Tip results</string>
+  <string name="category_odds_ok_tip_results_lineup">Lineup results</string>
+  <string name="category_odds_ok_tip_results_new_match">New match results</string>
+  <string name="category_odds_ok_tip_results_last_6">Results for O.K. Tip - last 6 matches within league + last reciprocal matches</string>
+  <string name="category_odds_ok_tip_results_generate">Match numbers generating for O.K. Tip</string>
+  <string name="category_odds_service">Odd service</string>
+  <string name="category_odds_lineup">Lineup</string>
+  <string name="category_odds_lineup_offer">Odd offer</string>
+  <string name="category_odds_lineup_recruitment">Recruitment based on closure date</string>
+  <string name="category_odds_lineup_contest_dashboard">Contest dashboard</string>
+  <string name="category_odds_lineup_match_dashboard">Match dashboard</string>
+  <string name="category_odds_lineup_carpet_ng">Carpet NG lineup</string>
+  <string name="category_odds_lineup_opportunity_deposit">Opportunity deposit limit dashboard</string>
+  <string name="category_odds_lineup_libe_bet_recruitment">Live bet recruitment</string>
+  <string name="category_odds_lineup_bookmaker_gusto">Odds - bookmaker's gusto</string>
+  <string name="category_odds_lineup_prematch_events">Prematch alert history</string>
+  <string name="category_odds_lineup_branch_contents">List of KM branch contests</string>
+  <string name="category_odds_risk_control">Risk control</string>
+  <string name="category_odds_live_bet">Live bet</string>
+  <string name="category_odds_automat_classic">Automat classic</string>
+  <string name="category_odds_automat_new">New automat</string>
+  <string name="category_odds_branch_staff_message">Message for branch staff</string>
+  <string name="category_odds_bookmakers_message">Message for bookmakers</string>
+  <string name="category_odds_tv_station">TV station</string>
+  <string name="category_odds_prematch_alerts">Prematch alerts</string>
+  <string name="category_odds_codebook_order">Event codebook order</string>
+  <string name="category_odds_game_settings">Game settings</string>
+  <string name="category_odds_contest_categories">Contest categories</string>
+  <string name="category_odds_entity">Entity</string>
+
+  <string name="category_odds">Odds</string>
+  <string name="category_secretary">Secretary</string>
+  <string name="category_clients">Clients</string>
+  <string name="category_cem">CEM</string>
+  <string name="category_affiliate">Affiliate</string>
+  <string name="category_economics">Economics</string>
+  <string name="category_services">Services</string>
+  <string name="category_branches">Branches</string>
+  <string name="category_tickets">Tickets</string>
+  <string name="category_lottery">Lottery</string>
+
+
+
+  <!--  DASHBOARD  -->
+  <string name="dashboard_history_title">Search history</string>
+  <string name="dashboard_demo_title">Demo screens</string>
+
+
+  <!--  CASINO  -->
+  <string name="category_casino">Casino</string>
+
+  <string name="category_casino_banners">Banners</string>
+  <string name="category_casino_banners_dashboard">Dashboard</string>
+  <string name="category_casino_banners_new">New banner</string>
+  <string name="category_casino_banners_settings">Settings</string>
+
+  <string name="category_casino_free_spins">Free spins</string>
+  <string name="category_casino_free_spins_campaigns">Campaign dashboard</string>
+  <string name="category_casino_free_spins_conversion">Conversion requests</string>
+  <string name="category_casino_free_spins_provider_campaigns">Provider campaigns</string>
+  <string name="category_casino_free_spins_yaadrasil">Yaadrasil campaigns</string>
+
+  <string name="category_casino_promo_calendar">Promo calendars</string>
+  <string name="category_casino_promo_calendar_new">New promo calendar</string>
+  <string name="category_casino_promo_calendar_dashboard">Dashboard</string>
+  <string name="category_casino_promo_calendar_interval_dashboard">Bonus interval dashboard</string>
+
+  <string name="category_casino_transactions">Transactions</string>
+  <string name="category_casino_transactions_list">List of transactions</string>
+  <string name="category_casino_transactions_list_non_closed">List of non-closed transactions</string>
+
+  <string name="category_casino_tournaments">Tournaments</string>
+  <string name="category_casino_tournaments_new">New tournament</string>
+  <string name="category_casino_tournaments_dashboard">Tournament dashboard</string>
+  <string name="category_casino_tournaments_win_split">Winning split templates</string>
+
+  <string name="category_casino_lobby">Lobby</string>
+
+  <string name="category_casino_games">Games</string>
+  <string name="category_casino_games_list">Games</string>
+  <string name="category_casino_games_types">Game types</string>
+  <string name="category_casino_games_genres">Game genres</string>
+  <string name="category_casino_games_categories">Game categories</string>
+  <string name="category_casino_games_labels">Game labels</string>
+
+  <string name="category_casino_jackpot_banner">Jackpot banner</string>
+  <string name="category_casino_jackpot_banner_list">Jackpot banners</string>
+  <string name="category_casino_jackpot_banner_vendors">Jackpot vendors</string>
+  <string name="category_casino_jackpot_banner_levels">Jackpot levels</string>
+
+  <string name="category_casino_alert_centre">Alert centre</string>
+
+
+
+
+
+  <string name="category_bonuses">Bonuses</string>
+  <string name="category_localization">Localization</string>
+  <string name="category_contests">Contests</string>
+  <string name="category_tests">Tests</string>
+  <string name="category_administration">Administration</string>
+  <string name="category_window">Window</string>
+
+
+
+  <string name="exception_empty_navigation_title">There is nothing here yet.</string>
+  <string name="exception_empty_navigation_description">Perhaps you might want to look elsewhere.</string>
+
+
+</resources>
